@@ -1,3 +1,5 @@
 public class second_for_new_branch{
-    public 
+    public static void main(String args[]){
+        
+    }
 }
