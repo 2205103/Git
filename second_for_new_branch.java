@@ -1,6 +1,6 @@
 public class second_for_new_branch{
-  public static void main(String args[])
-  {
-    System.out.println("s");
-  }
+
+    public static void main(String args[]){
+        
+    }
 }
